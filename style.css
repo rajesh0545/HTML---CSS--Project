@@ -1,0 +1,45 @@
+.color{
+    background-color: darkgrey;
+    height: 50px;
+    align-content: center;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+    background-color: aqua;
+}
+
+.body{
+    background-image: url('21k.jpg');
+}
+.ab{
+    margin-left: 800px;
+}
+.gr{
+    margin-left: 100px;
+}
+.ev{
+    margin-left: 100px;
+}
+.par{
+    margin-left: 100px;
+}
+.faqs{
+    margin-left: 100px;
+}
+.news{
+    margin-left: 100px;
+}
+
+#int{
+    background-image: url('21k.jpg');
+}
+
+
+.style{
+    background-color:aquamarine;
+    height: 100px;
+    width:400px;
+    margin-left: 1300px;
+    
+    
+
+}
